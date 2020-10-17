@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/JAVASCRIPT-LIFS5070HW2-analyze-tools/static/css/main.5f361e03.chunk.css",
+    "main.js": "/JAVASCRIPT-LIFS5070HW2-analyze-tools/static/js/main.86fd840e.chunk.js",
+    "main.js.map": "/JAVASCRIPT-LIFS5070HW2-analyze-tools/static/js/main.86fd840e.chunk.js.map",
+    "runtime-main.js": "/JAVASCRIPT-LIFS5070HW2-analyze-tools/static/js/runtime-main.39ab7d5e.js",
+    "runtime-main.js.map": "/JAVASCRIPT-LIFS5070HW2-analyze-tools/static/js/runtime-main.39ab7d5e.js.map",
+    "static/css/2.2a86faee.chunk.css": "/JAVASCRIPT-LIFS5070HW2-analyze-tools/static/css/2.2a86faee.chunk.css",
+    "static/js/2.09fa9bf8.chunk.js": "/JAVASCRIPT-LIFS5070HW2-analyze-tools/static/js/2.09fa9bf8.chunk.js",
+    "static/js/2.09fa9bf8.chunk.js.map": "/JAVASCRIPT-LIFS5070HW2-analyze-tools/static/js/2.09fa9bf8.chunk.js.map",
+    "index.html": "/JAVASCRIPT-LIFS5070HW2-analyze-tools/index.html",
+    "precache-manifest.64b6c3a8d34da3d06a604ca973ba93ea.js": "/JAVASCRIPT-LIFS5070HW2-analyze-tools/precache-manifest.64b6c3a8d34da3d06a604ca973ba93ea.js",
+    "service-worker.js": "/JAVASCRIPT-LIFS5070HW2-analyze-tools/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/JAVASCRIPT-LIFS5070HW2-analyze-tools/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/JAVASCRIPT-LIFS5070HW2-analyze-tools/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.09fa9bf8.chunk.js.LICENSE.txt": "/JAVASCRIPT-LIFS5070HW2-analyze-tools/static/js/2.09fa9bf8.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/JAVASCRIPT-LIFS5070HW2-analyze-tools/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39ab7d5e.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.09fa9bf8.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.86fd840e.chunk.js"
+  ]
+}
