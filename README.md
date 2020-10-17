@@ -1,3 +1,9 @@
+# Fall 2020 LIFS 5070 hw2 analysis tool
+
+This project is created right after Professor Toyotaka ISHIBASHI announced the homework of analyzing the nucleosome pulling data generate by Optical Tweezer. I don't know how to use R, Matlab and I am not native in Python. I decide to use my own language which is Javascript to analyze the data and create a tool for easy manipulation of data.
+
+# ReadMe of the create react app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
