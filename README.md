@@ -1,6 +1,21 @@
 # Fall 2020 LIFS 5070 hw2 analysis tool
 
-This project is created right after Professor Toyotaka ISHIBASHI announced the homework of analyzing the nucleosome pulling data generate by Optical Tweezer. I don't know how to use R, Matlab and I am not native in Python. I decide to use my own language which is Javascript to analyze the data and create a tool for easy manipulation of data.
+This project is created right after Professor Toyotaka ISHIBASHI announced the homework of analyzing the nucleosome pulling data generate by Optical Tweezer. In this tool React.js, Chart.js, bootstrap and their dependent library are used. The data I/O and data processing such as filter and decimate method are written on my own using the filter method pseudo-code available on the internet without using any library.
+
+The reason of not to use R, Python or Matlab are as follows. 
+
+For R and Python, I hate the programming syntax of R and Python. The program written in R and Python requires sophisticate environment setup to run while the only requirement of javascript programme is just a modern browser which. 
+
+For Matlab, The education version of Matlab is available on barn computer. However computer barn computer is slow and I am unable to find a crack or free license of Matlab on my own.
+
+
+
+## Working Demo
+https://dredwardpcb.github.io/JAVASCRIPT-LIFS5070HW2-analyze-tools/
+
+## License
+MIT License
+this is an open source tool
 
 # ReadMe of the create react app
 
