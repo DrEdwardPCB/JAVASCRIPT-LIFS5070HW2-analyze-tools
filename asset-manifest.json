@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/JAVASCRIPT-LIFS5070HW2-analyze-tools/static/css/main.5f361e03.chunk.css",
-    "main.js": "/JAVASCRIPT-LIFS5070HW2-analyze-tools/static/js/main.86fd840e.chunk.js",
-    "main.js.map": "/JAVASCRIPT-LIFS5070HW2-analyze-tools/static/js/main.86fd840e.chunk.js.map",
+    "main.js": "/JAVASCRIPT-LIFS5070HW2-analyze-tools/static/js/main.0370c9e9.chunk.js",
+    "main.js.map": "/JAVASCRIPT-LIFS5070HW2-analyze-tools/static/js/main.0370c9e9.chunk.js.map",
     "runtime-main.js": "/JAVASCRIPT-LIFS5070HW2-analyze-tools/static/js/runtime-main.39ab7d5e.js",
     "runtime-main.js.map": "/JAVASCRIPT-LIFS5070HW2-analyze-tools/static/js/runtime-main.39ab7d5e.js.map",
     "static/css/2.2a86faee.chunk.css": "/JAVASCRIPT-LIFS5070HW2-analyze-tools/static/css/2.2a86faee.chunk.css",
     "static/js/2.09fa9bf8.chunk.js": "/JAVASCRIPT-LIFS5070HW2-analyze-tools/static/js/2.09fa9bf8.chunk.js",
     "static/js/2.09fa9bf8.chunk.js.map": "/JAVASCRIPT-LIFS5070HW2-analyze-tools/static/js/2.09fa9bf8.chunk.js.map",
     "index.html": "/JAVASCRIPT-LIFS5070HW2-analyze-tools/index.html",
-    "precache-manifest.64b6c3a8d34da3d06a604ca973ba93ea.js": "/JAVASCRIPT-LIFS5070HW2-analyze-tools/precache-manifest.64b6c3a8d34da3d06a604ca973ba93ea.js",
+    "precache-manifest.f68b9a8821fc4d61f46889c09b7cd8eb.js": "/JAVASCRIPT-LIFS5070HW2-analyze-tools/precache-manifest.f68b9a8821fc4d61f46889c09b7cd8eb.js",
     "service-worker.js": "/JAVASCRIPT-LIFS5070HW2-analyze-tools/service-worker.js",
     "static/css/2.2a86faee.chunk.css.map": "/JAVASCRIPT-LIFS5070HW2-analyze-tools/static/css/2.2a86faee.chunk.css.map",
     "static/css/main.5f361e03.chunk.css.map": "/JAVASCRIPT-LIFS5070HW2-analyze-tools/static/css/main.5f361e03.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.2a86faee.chunk.css",
     "static/js/2.09fa9bf8.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.86fd840e.chunk.js"
+    "static/js/main.0370c9e9.chunk.js"
   ]
 }

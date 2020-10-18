@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4ed96566524793c1609bb4774967a305",
+    "revision": "7db2d51539a0e5dcb680fd7de215c17b",
     "url": "/JAVASCRIPT-LIFS5070HW2-analyze-tools/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/JAVASCRIPT-LIFS5070HW2-analyze-tools/static/css/2.2a86faee.chunk.css"
   },
   {
-    "revision": "81244ede19912b4f2af2",
+    "revision": "5ca955d053152718ddac",
     "url": "/JAVASCRIPT-LIFS5070HW2-analyze-tools/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/JAVASCRIPT-LIFS5070HW2-analyze-tools/static/js/2.09fa9bf8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "81244ede19912b4f2af2",
-    "url": "/JAVASCRIPT-LIFS5070HW2-analyze-tools/static/js/main.86fd840e.chunk.js"
+    "revision": "5ca955d053152718ddac",
+    "url": "/JAVASCRIPT-LIFS5070HW2-analyze-tools/static/js/main.0370c9e9.chunk.js"
   },
   {
     "revision": "5049f1117263bdfa5b74",
