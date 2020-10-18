@@ -9,7 +9,7 @@ export const DataItem=(props)=>{
                 B_distY:datapt[4],
      */
     return(
-        <Row>
+        <Row style={{width:'100%'}} className='justify-content-around'>
             <Col>
                 <p>{props.CycleCount}</p>
             </Col>
@@ -26,13 +26,16 @@ export const DataItem=(props)=>{
                 <p>{props.B_distY}</p>
             </Col>
             <Col>
-                <p>{(parseFloat(props.A_distY)+parseFloat(props.B_distY))/2+(parseFloat(props.Y_force)/0.21)}</p>
+                <p>{((parseFloat(props.A_distY)+parseFloat(props.B_distY))/2+(parseFloat(props.Y_force)/0.21)).toFixed(1)}</p>
             </Col>
             <Col>
                 <p>{0-parseFloat(props.Y_force)}</p>
             </Col>
             <Col>
-                <p>{props.Processed_DNA_extension}</p>
+                <p>{props.Processed_DNA_extension.toFixed(1)}</p>
+            </Col>
+            <Col>
+                <p>{props.Force}</p>
             </Col>
         </Row>
     )

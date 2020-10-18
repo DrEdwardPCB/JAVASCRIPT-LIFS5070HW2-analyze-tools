@@ -90,7 +90,7 @@ function App() {
             </Row>
           </Col>
         </Row>
-        <Row style={{ height: '50vh' }} className='bg-white'>{/**this is for data filtering and disamate */}
+        <Row style={{ height: '60vh' }} className='bg-white'>{/**this is for data filtering and disamate */}
           <Col style={{maxHeight:'100%', height:'100%'}}>
             <DataManipulation data={data} setDataManipulated={setDataManipulated}/>
           </Col>
